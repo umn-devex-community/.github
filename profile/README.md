@@ -4,3 +4,7 @@ This Org is managed by Devex, we can be reached at devex@umn.edu or #github / #t
 
 ## Community Guildlines
 
+Here are a list of Guidlines for use:
+- Any Repository that has not recieved any updates in 1 year will marked as Archived and put into a read-only state.
+  - Any Repository that is Archived
+- Any Repository that has been in an Archived state and not attested to for 1 year will be Deleted.
