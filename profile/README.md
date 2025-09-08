@@ -5,6 +5,7 @@ This Org is managed by Devex, we can be reached at devex@umn.edu or #github / #t
 ## Community Guildelines
 
 Here are a list of Guidelines for use:
+- This community is a place we can put code we'd like to share between teams. 
 - Any Repository that has not received any updates in one year will marked as Archived and put into a read-only state.
   - Any Repository that is Archived will get an email sent out to users who have contributed to the repository as notice.
   - Each Repository may also contain a `stakeholders.txt` file in the root that contains email addresses of anyone who relies on the contents of the repository but has not contributed.  This list will also get an email notice.
