@@ -2,7 +2,7 @@
 
 This Org is managed by Devex, we can be reached at devex@umn.edu or #github / #t3-devx slack channels in the IT@UMN Slack space.  This space is for use by IT Administrative units.
 
-## Community Guildelines
+## Community Guidelines
 
 Here are a list of Guidelines for use:
 - This community is a place we can put code we'd like to share between teams. 
