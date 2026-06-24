@@ -14,7 +14,7 @@ Here are a list of Guidelines for use:
 
 ## Code Security Guidelines
 
-- For GitHub Actions, use a full SHA for the version, along with the corresponding version number in the standard Dependabot format (e.g., `actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0`). This helps mitigate the risk of supply chain attacks.
+- For GitHub Actions, use a [full SHA for the version](https://docs.github.com/en/enterprise-cloud@latest/actions/how-tos/write-workflows/choose-what-workflows-do/find-and-customize-actions#using-shas), along with the corresponding version number in the standard Dependabot format (e.g., `actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0`). This helps mitigate the risk of supply chain attacks.
 - A dependabot.yml file should be used to keep dependencies up to date. A cooldown period should also be considered to help mitigate supply chain attack risks.
 
 ```
